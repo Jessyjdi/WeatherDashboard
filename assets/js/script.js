@@ -1,4 +1,4 @@
-var apiKey = "bd55593ecb666c01d38f4ec9276324e8";
+var apiKey = "a348b9b62df45ce36954774aad4a680a";
 
 var city = "";
 var searchCity = $("#city-input");
